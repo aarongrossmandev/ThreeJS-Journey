@@ -1,3 +1,3 @@
 # Three.js Journey
 
-# A collection of the first section to my Three JS journey
+# A collection of the chapters in my Three.js developer journey!
